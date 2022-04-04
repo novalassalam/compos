@@ -2,6 +2,7 @@
     "name": "noval/percobaan-composer",
     "description": "A simple hello world composer package",
     "version": "1.0.2",
+    "minimum-stability":"dev",
     "type": "library",
     "license": "MIT",
     "authors": [
